@@ -1,34 +1,15 @@
-## Said Cueter, Web Developer
+# Said Cueter, International Student
 Colombian student in Canada, graduated from business managment specializing now in Computer Programming in Conestoga College in Waterloo, Canada
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My skills related to programming are mostly focused with the Web Development. See below a list of skills:
 
-```markdown
-Syntax highlighted code block
+- JavaScript
+- C#
+- HTML & CSS
+- PHP
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saidcueter11/saidcueter11/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact Information
+- [LinkedIn](www.linkedin.com/in/said-cueter-091138191)
+- scueterrosales8265@conestogac.on.ca
