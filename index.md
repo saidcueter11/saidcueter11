@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/saidcueter11/saidcueter11/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Said Cueter, Web Developer
+Colombian student in Canada, graduated from business managment specializing now in Computer Programming in Conestoga College in Waterloo, Canada
 
 ### Markdown
 
