@@ -11,5 +11,5 @@ My skills related to programming are mostly focused with the Web Development. Se
 - PHP
 
 ## Contact Information
-- [LinkedIn](www.linkedin.com/in/said-cueter-091138191)
+- [LinkedIn](https://www.linkedin.com/in/said-cueter-091138191)
 - scueterrosales8265@conestogac.on.ca
